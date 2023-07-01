@@ -10,7 +10,7 @@ title: Welcome to my bloggggggggg
 
 <p>obviously this is another line</p>
 
-I really love ** bold text **
+I really love **bold text**
 
 > ignore me please!
 
